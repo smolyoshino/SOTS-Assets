@@ -1,6 +1,6 @@
 BPAGame
 
-## This is the repository containing files for Stories Of The Subconscious.
+## This is the repository containing files for Stories of the Subconscious.
 Such things in here will include:
 - Sprites
 - OST
